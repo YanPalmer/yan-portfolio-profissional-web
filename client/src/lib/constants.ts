@@ -5,13 +5,13 @@ export const PORTFOLIO_INFO = {
     "Desenvolvedor Full Stack apaixonado por código limpo e soluções inovadoras.",
   shortBio:
     "Com experiência em React, Node.js, TypeScript e Firebase, construo aplicações web modernas e escaláveis. Focado em entregar código de qualidade e experiências de usuário excepcionais.",
-  email: "contato@email.com",
-  phone: "+55 (11) 99999-9999",
-  location: "São Paulo, Brasil",
+  email: "yanpalmer007@gmail.com",
+  phone: "+55 (81) 99506-9382",
+  location: "Pernambuco, Brasil",
   socialLinks: {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
-    email: "mailto:contato@email.com",
+    github: "https://github.com/YanPalmer",
+    linkedin: "https://www.linkedin.com/in/yanpalmer007/",
+    email: "mailto:yanpalmer007@gmail.com",
   },
 };
 
